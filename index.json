@@ -33,12 +33,12 @@
       "language": "en",
       "manifest": {
         "path": "modules/synthetiq-manga/manifest.json",
-        "sha256": "d94dad1936ec6ee9ebf03ef1fdead6432958f3422a4abba9b5e337136d2b48e2"
+        "sha256": "e72fef878ec794a08ddf94889b86a6cff668a51bf7a2eb68523f29ef12b40ab2"
       },
-      "name": "Synthetiq Manga",
+      "name": "SynManga",
       "releaseTrack": "beta",
       "status": "active",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "sortPriority": 2
     },
     {

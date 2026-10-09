@@ -50,9 +50,9 @@
     "timeoutMilliseconds": 30000
   },
   "minimumAppVersion": "1.0.0",
-  "name": "Synthetiq Manga",
+  "name": "SynManga",
   "releaseTrack": "beta",
   "status": "active",
   "universalLink": "https://synthetiq.uk/manga/modules/synthetiq-manga",
-  "version": "1.0.2"
+  "version": "1.0.3"
 }
