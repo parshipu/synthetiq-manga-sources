@@ -1,0 +1,35 @@
+{
+  "id": "j-novel-v1",
+  "familyID": "j-novel-v1",
+  "name": "J-Novel Club",
+  "version": "0.1.0",
+  "releaseTrack": "stable",
+  "contentType": "publication",
+  "language": "en",
+  "baseURL": "https://j-novel.club/",
+  "universalLink": "https://j-novel.club/",
+  "entry": {
+    "path": "index.js",
+    "sha256": ""
+  },
+  "icon": {
+    "path": "icon.png",
+    "sha256": ""
+  },
+  "capabilities": [
+    "searchResults",
+    "extractDetails",
+    "extractResources"
+  ],
+  "allowedHosts": [
+    "j-novel.club",
+    "www.j-novel.club"
+  ],
+  "attribution": {
+    "author": "Synthetiq community",
+    "source": "https://j-novel.club/"
+  },
+  "limits": {
+    "maxResults": 50
+  }
+}
